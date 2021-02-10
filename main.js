@@ -12,5 +12,5 @@ function menu(){
     + '<li><a href="javascipt:void(0);">人物画像</a></li>'
     + '<li><a href="javascipt:void(0);">伏線画像</a></li>'
     + '</ul></div>';
-  doxument.getElementById("header").innerHTML = toWrite;
+  document.getElementById("header").innerHTML = toWrite;
 }
